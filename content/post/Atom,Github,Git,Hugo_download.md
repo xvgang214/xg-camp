@@ -1,5 +1,5 @@
 +++
-title = "徐岗的网页"
+title = "group2-徐岗的网页"
 description = "很高兴认识大家"
 categories = ["notice"]
 date = "2017-09-30"
